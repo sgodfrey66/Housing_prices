@@ -48,6 +48,7 @@ Before you begin working on this project, please do the following:
 ## Submission
 
 Materials must be submitted by the beginning of class on **Monday, March 25**.
+
 The last day for the Kaggle compeititon will be **Friday, March 22**.
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
