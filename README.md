@@ -1,6 +1,4 @@
-# 
-
-![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg =100x100) 
+# ![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg =100x100) 
 
 Project 2: Ames Housing Data and Kaggle Challenge
 
@@ -38,7 +36,7 @@ One key learning in this effort is that balance and judgment are needed in model
 Data sources:
 * Training and test data were provided as a part of project materials.  The variable listing can be found in the dictionary below.  Categorical variable values can be seen in the attached Jupyter notebook.
 
-Data dictionary.
+Data dictionary:
 
 |Feature|Description|
 |---|----|
