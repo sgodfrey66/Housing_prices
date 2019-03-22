@@ -1,6 +1,6 @@
 # 
 
-![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg | = 100 x 100) 
+![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg =100x100) 
 
 Project 2: Ames Housing Data and Kaggle Challenge
 
