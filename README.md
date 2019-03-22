@@ -1,6 +1,4 @@
-# ![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg =100x100) 
-
-Project 2: Ames Housing Data and Kaggle Challenge
+# Project 2: Ames Housing Data and Kaggle Challenge
 
 
 ### Stephen Godfrey, DSI-CC7-San Francisco
