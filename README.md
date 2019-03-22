@@ -40,7 +40,7 @@ Data dictionary:
 
 |Feature|Description|
 |---|----|
-|SalePrice:| the property's sale price in dollars|
+|SalePrice:| The property's sale price in dollars|
 |MSSubClass:| The building class|
 |MSZoning:| Identifies the general zoning classification of the sale|
 |LotFrontage:| Linear feet of street connected to property|
