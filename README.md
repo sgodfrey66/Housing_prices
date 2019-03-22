@@ -1,3 +1,5 @@
+<img src="./images/814_MainStreetBenches-byFayeGilbert.jpg" alt="Ames" width="200"/>
+
 # Project 2: Ames Housing Data and Kaggle Challenge
 
 
@@ -117,3 +119,7 @@ Data dictionary:
 |MoSold:| Month Sold|
 |YrSold:| Year Sold|
 |SaleType:| Type of sale|
+
+Image source: www.traveliowa.com
+[embedding an image](https://stackoverflow.com/questions/14675913/changing-image-size-in-markdown)
+
