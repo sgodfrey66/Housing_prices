@@ -1,4 +1,8 @@
-# ![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiTrKPh1pThAhUSOq0KHalWBboQjRx6BAgBEAU&url=https%3A%2F%2Fwww.traveliowa.com%2Fcities%2Fames-iowa%2F814%2F&psig=AOvVaw0X_1um4OmZsOSOxrF9vVBl&ust=1553307298094967) Project 2: Ames Housing Data and Kaggle Challenge
+# 
+
+![Ames](./images/814_MainStreetBenches-byFayeGilbert.jpg | = 100 x 100) 
+
+Project 2: Ames Housing Data and Kaggle Challenge
 
 
 ### Stephen Godfrey, DSI-CC7-San Francisco
