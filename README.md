@@ -26,11 +26,13 @@ Here the objective was to find the most explanatory variables and maintain under
 
 The recommended model incorporated the numerical variables of over quality, living area, age at time of sale, age of remodel at time of sale, lot area, fireplaces, finished basement area, size of open porch, a categorical variable for the home's neighborhood and the interaction variables of over quality and living area, overall quality and year sold and lot area and overall quality. 
 
+One key learning in this effort is that judgment is needed in modeling.  The approach taken here was to select a variable set based solely on explanatory power.  The procedures in Steps 1 and 2 did not set a priori limits on the variables but rather selected those that performed best in explaining the target variable.  This approach has both benefits and limitations.  It is beneficial in that it does provide a methodology for selecting among a large number of potential variables.  Its limitations include its long running time which may not have been an efficient use of computing resources and the fact that it did not on its own produce a recommended solution.  Instead, the recommended solution relied on judgment.  However, it should be noted that this judgment was informed by the output of this process. 
+
 
 ### Data
 
 Data sources:
-* Training and test data were provided as a part of project materials.  The variable listing can be found in the dictionary below.  Categorical variable values can be seen the attached Jupyter notebook.
+* Training and test data were provided as a part of project materials.  The variable listing can be found in the dictionary below.  Categorical variable values can be seen in the attached Jupyter notebook.
 
 Data dictionary.
 
